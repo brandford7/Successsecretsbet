@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Styles = () => {
+const Livescore = () => {
     return (
         <div>
             
@@ -8,4 +8,4 @@ const Styles = () => {
     )
 }
 
-export default Styles
+export default Livescore
